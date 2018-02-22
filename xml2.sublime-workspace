@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"error_",
+				"error_train"
+			],
+			[
+				"numb",
+				"numbers"
+			],
+			[
+				"NUMBER",
+				"numbers"
+			],
+			[
+				"scri",
+				"script\t<script>"
+			],
+			[
+				"std",
+				"I-stdio\tinc"
+			],
+			[
+				"print",
+				"println()\tfunc"
+			],
+			[
+				"pri",
+				"println()\tfunc"
+			],
+			[
+				"fpr",
+				"fprintf\tMatlab method"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"sc",
+				"section\tTag"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"teamna",
+				"team1_name"
+			],
+			[
+				"team2_",
+				"team2_goals"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"end",
+				"end\tfunc"
+			],
+			[
+				"setDefaultC",
+				"setDefaultCloseOperation()\tfunc"
+			],
+			[
+				"jlabel",
+				"I-JLabel\tinit"
+			],
+			[
+				"JFrame",
+				"I-JFrame\tinit"
+			],
+			[
+				"show",
+				"showMessageDialog()\tfunc"
+			],
+			[
+				"JOpti",
+				"I-JOptionPane\tinit"
+			],
+			[
+				"JOp",
+				"I-JOptionPane\tinit"
+			],
+			[
+				"thet",
+				"Theta2"
+			],
+			[
+				"th",
+				"Theta1"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"num",
+				"num_labels"
+			],
+			[
+				"for",
+				"for-loop"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"linK",
+				"link\tTag"
+			],
+			[
+				"li",
+				"linkn\tlink - next"
+			],
+			[
+				"l",
+				"linka\tlink - alternate"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"class",
+				"I-ClassGenerator\tinit"
+			],
+			[
+				"gr",
+				"grid-row-start"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"grid-ro",
+				"grid-row-gap"
+			],
+			[
+				"grid-co",
+				"grid-column-gap"
+			],
+			[
+				"bac",
+				"background-origin"
+			],
+			[
+				"grid-templa",
+				"grid-template-columns"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"cost",
+				"COSTFUNCTIONREG"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"el",
+				"elseif\telseif"
+			],
+			[
+				"pre",
+				"predict"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"cou",
+				"count\tfunc"
+			],
+			[
+				"stdi",
+				"I-stdio\tinc"
+			],
+			[
+				"polyter",
+				"polytermA"
+			],
+			[
+				"polyt",
+				"polytermA"
+			],
+			[
+				"terms",
+				"termsB"
+			],
+			[
+				"poly",
+				"polytermA"
+			],
+			[
+				"op",
+				"open\tfunc"
+			],
+			[
+				"display",
+				"display_details"
+			],
+			[
+				"Veh",
+				"Vehicle_details"
+			],
+			[
+				"vehi",
+				"Vehicle_details"
+			],
+			[
+				"engin",
+				"engine_no"
+			],
+			[
+				"Vehicle",
+				"Vehicle_no"
+			],
+			[
+				"iostr",
+				"I-iostream\tinc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/satyammishra/Desktop/python/week 5/json1.py",
+		"/Users/satyammishra/Desktop/python/week 5/xml2.py",
+		"/Users/satyammishra/Desktop/python/week 5/json2.py",
+		"/Users/satyammishra/Desktop/python/week 5/xmlparsing.py",
+		"/Users/satyammishra/Desktop/ai/exercise/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/satyammishra/Desktop/python/week 5/geoxml.py",
+		"/Users/satyammishra/Desktop/ai/exercise/machine-learning-ex5/ex5/trainLinearReg.m",
+		"/Users/satyammishra/Desktop/python/urlinks.py",
+		"/Users/satyammishra/Desktop/python/satyamlink.py",
+		"/Users/satyammishra/Desktop/python/urlwords.py",
+		"/Users/satyammishra/Desktop/python/urlib2.py",
+		"/Users/satyammishra/Desktop/python/pye3.py",
+		"/Users/satyammishra/Desktop/python/sockwet.py",
+		"/Users/satyammishra/Desktop/python/split.py",
+		"/Users/satyammishra/Desktop/python/emailextract.py",
+		"/Users/satyammishra/Desktop/python/fileAss.py",
+		"/Users/satyammishra/Desktop/python/EW.py",
+		"/Users/satyammishra/Desktop/s1.php",
+		"/Users/satyammishra/Desktop/ai/exercise/machine-learning-ex4/ex4/debugInitializeWeights.m",
+		"/Users/satyammishra/Desktop/ai/exercise/ex3/ex3_nn.matlab",
+		"/Users/satyammishra/Desktop/ai/exercise/ex3/predictOneVsAll.m",
+		"/Users/satyammishra/Desktop/1.html",
+		"/Users/satyammishra/Desktop/s1.js",
+		"/Users/satyammishra/Desktop/ai/exercise/ex3/ex3.m",
+		"/Users/satyammishra/Desktop/ai/exercise/machine-learning-ex2/ex2/ex2.m",
+		"/Users/satyammishra/Desktop/java/fileio /CopyFile.java",
+		"/Users/satyammishra/Desktop/ai/exercise/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/satyammishra/Desktop/ai/exercise/ex1/gradientDescent.m",
+		"/Users/satyammishra/Desktop/prac/bsearch.c",
+		"/Users/satyammishra/Desktop/prac/QWE.C",
+		"/Users/satyammishra/Desktop/prac/poly.c",
+		"/Users/satyammishra/Desktop/ai/neural network/machine-learning-ex3/ex3/ex3.m",
+		"/Users/satyammishra/Desktop/ai/neural network/machine-learning-ex3/ex3/oneVsAll.matlab",
+		"/Users/satyammishra/Desktop/ex1/featureNormalize.m",
+		"/Users/satyammishra/Desktop/codechef/wer.cpp",
+		"/Users/satyammishra/Desktop/codechef/maxsum.cpp",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/tld.cpp",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/satyammishra/Desktop/codechef/theleadgame.cpp",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/Users/satyammishra/Desktop/we.c",
+		"/Users/satyammishra/Desktop/codechef/we.cpp",
+		"/Users/satyammishra/Desktop/codechef/rough2.cpp",
+		"/Users/satyammishra/Desktop/jhu revisited/javascipt/script.js",
+		"/Users/satyammishra/Desktop/jhu revisited/javascipt/j1.html",
+		"/Users/satyammishra/Desktop/atm.cpp",
+		"/Users/satyammishra/Desktop/jhu revisited/index.html",
+		"/Users/satyammishra/Desktop/q.cpp",
+		"/Users/satyammishra/Desktop/w.cpp",
+		"/Users/satyammishra/Desktop/d.c",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/ex1.matlab",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/ex1data1.txt",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/satyammishra/Desktop/ai/octave/machine-learning-ex1/ex1/plotData.m",
+		"/Users/satyammishra/Desktop/ai/neural network/machine-learning-ex3/ex3/ex3_nn.m",
+		"/Users/satyammishra/Desktop/ex3/predict.m",
+		"/Users/satyammishra/Desktop/java/apples2.java",
+		"/Users/satyammishra/Desktop/java/gui/Test.java",
+		"/Users/satyammishra/Desktop/java/apples.java",
+		"/Users/satyammishra/Desktop/java/BoxDemo.java",
+		"/Users/satyammishra/Desktop/java/BoxDemo2.java",
+		"/Users/satyammishra/Desktop/ex3/ex3_nn.matlab",
+		"/Users/satyammishra/Desktop/java/EventDemo.java",
+		"/Users/satyammishra/Desktop/java/AppletSkel.java",
+		"/Users/satyammishra/Desktop/java/Area.java",
+		"/Users/satyammishra/Desktop/java/BlockTest.java",
+		"/Users/satyammishra/Desktop/java/ForTest.java",
+		"/Users/satyammishra/Desktop/java/IfSample.java",
+		"/Users/satyammishra/Desktop/java/Example2r.java",
+		"/Users/satyammishra/Desktop/java/hel.java",
+		"/Users/satyammishra/Desktop/java/s1.java",
+		"/Users/satyammishra/Desktop/ex3/HelloWorld.java",
+		"/Users/satyammishra/Desktop/ex3/predictOneVsAll.m",
+		"/Users/satyammishra/Desktop/ex3/lrCostFunction.m",
+		"/Users/satyammishra/Desktop/ex3/oneVsAll.m",
+		"/Users/satyammishra/Desktop/ex3/ex3.m",
+		"/Users/satyammishra/Desktop/jhu revisited/css/styles.css",
+		"/Users/satyammishra/Desktop/jhu revisited/grid-after.html",
+		"/Users/satyammishra/Desktop/jhu revisited/grid-before.html .html",
+		"/Users/satyammishra/Desktop/withPureVirtualFunction.c",
+		"/Users/satyammishra/Desktop/jhu revisited/introBootstrap.html",
+		"/Users/satyammishra/Desktop/jhu revisited/reso.css",
+		"/Users/satyammishra/Desktop/ex3/responsive-before.html",
+		"/Users/satyammishra/Desktop/ex3/responsive-after.html",
+		"/Users/satyammishra/Desktop/jhu revisited/css/style.css",
+		"/Users/satyammishra/Desktop/ex3/ex3_nn.m",
+		"/Users/satyammishra/Desktop/ex3/displayData.m",
+		"/Users/satyammishra/Desktop/ex3/ex3.matlab",
+		"/Users/satyammishra/Desktop/machine-learning-ex2/ex2/plotData.m",
+		"/Users/satyammishra/Desktop/ex1/ex1.m",
+		"/Users/satyammishra/Desktop/as.m",
+		"/Users/satyammishra/Desktop/satyam.py",
+		"/Users/satyammishra/test_site/index.html",
+		"/Users/satyammishra/revisehtml.html",
+		"/Volumes/EXT-DRIVE/@version of codes/codes/JHU-WEB/style1.css",
+		"/Volumes/EXT-DRIVE/@version of codes/codes/JHU-WEB/style.css",
+		"/Volumes/EXT-DRIVE/@version of codes/codes/JHU-WEB/external.css",
+		"/Users/satyammishra/Desktop/c++ program/user_defined_manipulator.c",
+		"/Users/satyammishra/Desktop/c++ program/templateClassTemplate.c",
+		"/Volumes/EXT-DRIVE/@version of codes/codes/JHU-WEB/style2.css",
+		"/Users/satyammishra/Desktop/c++ program/withVirtualFunction.c",
+		"/Users/satyammishra/Desktop/c++ program/withPureVirtualFunction.c",
+		"/Users/satyammishra/Desktop/c++ program/programwithoutvirtualfunction.c",
+		"/Users/satyammishra/Desktop/c++ program/templateClasslinkedlist.c",
+		"/Users/satyammishra/Desktop/c++ program/simp-try-catch.c",
+		"/Users/satyammishra/Desktop/c++ program/friend.cpp",
+		"/Users/satyammishra/Desktop/c++ program/friend_bridge.c",
+		"/Users/satyammishra/Desktop/c++ program/file_stream_rw.c",
+		"/Users/satyammishra/Desktop/c++ program/exception_function_invoked.c",
+		"/Users/satyammishra/Desktop/c++ program/user_defined_manipulator.cpp",
+		"/Users/satyammishra/Desktop/c++ program/abstractClassImp.c",
+		"/Users/satyammishra/Desktop/friend.cpp",
+		"/Users/satyammishra/Desktop/programwithoutvirtualfunction.c",
+		"/Users/satyammishra/Desktop/friend_bridge.c",
+		"/Users/satyammishra/Desktop/file_stream_rw.c",
+		"/Users/satyammishra/Desktop/exception_function_invoked.c",
+		"/Users/satyammishra/Desktop/withVirtualFunction.c",
+		"/Users/satyammishra/Desktop/user_defined_manipulator.cpp",
+		"/Users/satyammishra/Desktop/user_defined_manipulator.c",
+		"/Users/satyammishra/Desktop/templateClassTemplate.c",
+		"/Users/satyammishra/Desktop/templateClasslinkedlist.c",
+		"/Users/satyammishra/Desktop/abstractClassImp.c",
+		"/Users/satyammishra/Desktop/simp-try-catch.c",
+		"/Volumes/EXT-DRIVE/@codes/2.data structures/Trees/Binarysearchtree.cpp",
+		"/Volumes/EXT-DRIVE/@codes/2.data structures/Trees/binary_search_tree.cpp",
+		"/Volumes/EXT-DRIVE/@codes/2.data structures/Trees/Binary search tree coy frg.cpp"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "xml2.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"/",
+				"~/Desktop/machine-learning-ex2/ex2/ex2.m"
+			],
+			[
+				"",
+				"~/Desktop/machine-learning-ex2/ex2/costFunctionReg.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"nnCostFunction"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
